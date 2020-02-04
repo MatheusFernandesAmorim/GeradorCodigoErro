@@ -1,0 +1,8 @@
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\bin\Debug\GeradorCodigoErro.exe.config
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\bin\Debug\GeradorCodigoErro.exe
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\bin\Debug\GeradorCodigoErro.pdb
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\obj\Debug\GeradorCodigoErro.GeradorCodigoErro.resources
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\obj\Debug\GeradorCodigoErro.Properties.Resources.resources
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\obj\Debug\GeradorCodigoErro.csproj.GenerateResource.cache
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\obj\Debug\GeradorCodigoErro.exe
+C:\Users\matheusfernandes\Desktop\GeradorCodigoErro\obj\Debug\GeradorCodigoErro.pdb
